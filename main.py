@@ -24,4 +24,4 @@ while True:
     print(f"Humidity: {readings['humidity']}%")
     print("---")
 
-    time.sleep(1)
+    time.sleep(3)
